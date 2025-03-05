@@ -1,0 +1,5 @@
+spring.application.name=logingwith google
+
+
+spring.security.oauth2.client.registration.google.client-id=1039832074559-glqgrj0kfihc88fq3uh4th8n9qbbq1n6.apps.googleusercontent.com
+spring.security.oauth2.client.registration.google.client-secret=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
